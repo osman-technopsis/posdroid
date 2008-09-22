@@ -1,0 +1,15 @@
+#summary POSdroid a POS solution for android devices.
+
+= Introduction =
+
+POSdroid is a Point of Sale solution for android devices.
+POSdroid can communicate with printers, server, payments gateways using android device functionalities.
+
+
+
+
+= Details =
+
+ * Support for reading BIDI codes and barcodes with integrated camera.
+ * Support for printing with infrared printers
+ * Support for online stocks
