@@ -6,10 +6,36 @@ POSdroid is a Point of Sale solution for android devices.
 POSdroid can communicate with printers, server, payments gateways using android device functionalities.
 
 
+  * Sales, refunds and cash management
+  * Multiple receipts at the same time Pause/Continue/Block
+  * Editing and refunding closed receipts
+  * Communication between several Posdroids for a single receipt
+  * Product recommendations, stocks
+  * Product search
+  * Iternational tax management
+  * BIDI and Bar code integration with built-in camera support
+  * Profiles management for products, categories, subcategories, prices and discounts
+  * Payment gateways
+  * Prepaid
+  * Payment methods
+  * EMV compliance
+  * Mobile payments
+  * Infrared, wifi, bluetooth printer communication
+  * Cash management (users, products, taxes)
+  * Shift reports
+  * User profiles with security roles
+  * Online & Offline sales.
+  * Image libraries
+  * Reservation management
+  * Schedulling
+  * Local layout and ocupation
+  * Support for reading BIDI codes and barcodes with integrated camera.
+  * Support for printing with infrared printers
+  * Support for online stocks
 
-
-= Details =
-
- * Support for reading BIDI codes and barcodes with integrated camera.
- * Support for printing with infrared printers
- * Support for online stocks
+== Market Segments ==
+  * Kiosks
+  * Food
+  * Retail
+  * Topup
+  * Airtime
