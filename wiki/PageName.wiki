@@ -75,6 +75,7 @@ Spanish.
 
 === Van Sales Features ===
   * Transmission of all delivery information to the back office
+  * Instant email invoicing for costumers
   * On board inventory
   * Access to customer information
   * Scheduled deliveries
