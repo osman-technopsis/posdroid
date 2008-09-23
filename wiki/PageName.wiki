@@ -39,3 +39,36 @@ POSdroid can communicate with printers, server, payments gateways using android 
   * Retail
   * Topup
   * Airtime
+
+== Technical Specifications ==
+
+=== Server ===  
+
+==== Databases supported ====
+
+Microsoft SQL Server 2000, 2008
+
+=== Client ===
+==== Operating systems ====
+
+Android -  Dalvik VM  - Linux kernel v 2.6
+
+==== Database ====
+SQLite for structured data storage 
+Access dat from:
+  * XML. 
+  * Web services. 
+
+
+==== Platform ====
+Java 2 Platform Standard Edition 5.0 or higher. 
+Supported POS hardware 
+
+=== Peripherals ====
+GSM Telephony (hardware dependent) 
+Bluetooth, EDGE, 3G, and WiFi (hardware dependent) 
+Camera, GPS, compass, and accelerometer (hardware dependent) 
+
+
+=== Supported countries ===
+Spanish. 
