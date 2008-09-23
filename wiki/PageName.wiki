@@ -72,3 +72,13 @@ Camera, GPS, compass, and accelerometer (hardware dependent)
 
 === Supported countries ===
 Spanish. 
+
+=== Van Sales Features ===
+  * Transmission of all delivery information to the back office
+  * On board inventory
+  * Access to customer information
+  * Scheduled deliveries
+  * Sale invoicing for customers
+  * On-screen signature capture
+  * Improved routing and scheduling
+  * Reports
