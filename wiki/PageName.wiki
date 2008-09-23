@@ -40,6 +40,15 @@ POSdroid can communicate with printers, server, payments gateways using android 
   * Topup
   * Airtime
 
+  * Airline Mobile Point of Sales 
+  * Train Mobile Point of Sales  
+  * Bus / Coach Mobile Point of Sales 
+  * Boats - Ferry Point of Sales 
+  * Van Sales
+  * Mobile Delivery 
+  * Mobile Ticketing
+  * Press Delivery 
+
 == Technical Specifications ==
 
 === Server ===  
