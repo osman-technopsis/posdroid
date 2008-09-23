@@ -32,6 +32,13 @@ POSdroid can communicate with printers, server, payments gateways using android 
   * Support for reading BIDI codes and barcodes with integrated camera.
   * Support for printing with infrared printers
   * Support for online stocks
+  * GPS Tracking
+  * GPRS Communication
+  * Wi-Fi
+  * RFID
+  * Bluetooth
+  * Mifare
+  * Network communication
 
 == Market Segments ==
   * Kiosks
